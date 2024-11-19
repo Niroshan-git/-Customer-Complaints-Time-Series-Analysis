@@ -68,6 +68,11 @@ The project includes various visualizations:
 - Training vs Test comparisons
 - Future predictions
 
+![image](https://github.com/user-attachments/assets/88ba3d54-8d09-4337-8303-082a816b645e)
+![image](https://github.com/user-attachments/assets/54e7c2ef-d057-4e77-85ae-5237f373abbe)
+![image](https://github.com/user-attachments/assets/5e85634b-15db-46c9-9cf1-bf2eae312e7e)
+
+
 ## Usage
 1. Clone the repository
 2. Install required packages:
